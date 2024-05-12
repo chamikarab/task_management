@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Note.</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="enter_the_task_titile">enter the task titile</string>
+    <string name="enter_the_task_description">enter the task description</string>
+    <string name="edit_task_details">Edit Task Details..</string>
+    <string name="description">Description</string>
+    <string name="task_title">Task Title</string>
+    <string name="welcome_task_minder">Welcome Task Minder</string>
+    <string name="demo_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="get_start">Get Start</string>
+    <string name="enter_your_task_name">Enter Your Task Name</string>
+</resources>
