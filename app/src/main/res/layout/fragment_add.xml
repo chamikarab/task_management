@@ -51,7 +51,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginTop="200dp"
             android:fontFamily="sans-serif"
-            android:text="Enter Your Task Description"
+            android:text="Enter the task description"
             android:textStyle="bold"
             android:textColor="@color/black"
             android:textSize="23sp" />
